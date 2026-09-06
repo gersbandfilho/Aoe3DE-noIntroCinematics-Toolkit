@@ -10,10 +10,10 @@ To fix this, simply change the resolution to something else and then switch back
 To save you the trouble of opening Windows settings every time this happens, I've created a simples .bat that generates an executable to handle you in this process.
 
 ## Displays supported
-Currently, only the version for 2560 x 1080 px (Ultrawide) monitors is available. I am creating versions for other monitors.
+Currently, only the versions for 2560 x 1080 px (Ultrawide) and 1920 x 1080 px monitors is available. I am creating versions for other monitors.
 
 ## Bonus tool
-You can also find my "ForceAoe" tool in the directory; it is designed to force the termination of processes related to the "Aoe3DE.exe" executable and then relaunch it after a few seconds. 
+You can also find my **ForceAoe** tool in the directory; it is designed to force the termination of processes related to the `Aoe3DE.exe` executable and then relaunch it after a few seconds. 
 
 It can be useful when you can't open the game due to a glitched process, or when you lose and—in a fit of anger—need to leave the match/game immediately.
 
