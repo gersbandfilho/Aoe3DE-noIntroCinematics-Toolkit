@@ -22,7 +22,7 @@
 ## Displays supported ##
 ########################
 ##
-###  Currently, only the version to 2560 x 1080 px (Ultrawide) monitors is available. 
+###  Currently, only the version to 2560 x 1080 px (Ultrawide) and 1920 x 1080 px monitors is available. 
 ###  I am creating versions to other monitors.
 ##
 #
