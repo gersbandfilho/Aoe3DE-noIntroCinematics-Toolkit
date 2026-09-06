@@ -1,4 +1,4 @@
-RESOLUTION SWITCHER (2560x1080p Ultrawide)
+RESOLUTION SWITCHER (For 2560x1080p Ultrawide)
 
 This project changes the primary Windows display to:
 1920x1080
