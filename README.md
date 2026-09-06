@@ -18,4 +18,4 @@ You can also find my "ForceAoe" tool in the directory; it is designed to force t
 It can be useful when you can't open the game due to a glitched process, or when you lose and—in a fit of anger—need to leave the match/game immediately.
 
 ## Aditional information
-The resolution changer files come with a simplified "installation process" that allows you to create your own executable, should you wish to do so. This is not required for operation; you can simply use the pre-existing executables launched via the shortcuts.
+The resolution changer files come with a simplified "installation process" that allows you to create your own executable. 
