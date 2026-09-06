@@ -1,4 +1,4 @@
-RESOLUTION SWITCHER
+RESOLUTION SWITCHER (2560x1080p Ultrawide)
 
 This project changes the primary Windows display to:
 1920x1080
@@ -12,4 +12,4 @@ HOW TO BUILD
 4. The finished executable will be:
    publish\ResolutionSwitcher.exe
 
-The resulting EXE is self-contained and does not require QRes.
+The resulting EXE is self-contained and does not require QRes or similar apps.
