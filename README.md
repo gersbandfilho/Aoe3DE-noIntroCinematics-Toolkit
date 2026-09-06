@@ -1,5 +1,5 @@
 # Aoe3DE-noIntroCinematics-Toolkit
-Simple tools to fix glitches when using the '+noIntroCinematics' string in Age of Empires 3: Definitive Edition.
+- Simple tools to fix glitches when using the '+noIntroCinematics' string in Age of Empires 3: Definitive Edition.
 
 You can skip the cinematic intros in AoE3:DE by adding the string `+noIntroCinematics` to the game's launch options in Steam.
 
